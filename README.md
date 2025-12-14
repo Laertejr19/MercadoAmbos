@@ -1,7 +1,5 @@
 # Mercado Ambos - Sistema de Gestão de Contas
 
-![Tela Inicial](./img/Hortifrutigranjeiros.jpg)
-
 Sistema web simples para gerenciamento financeiro de contas a pagar (fornecedores) e contas a receber (clientes) de um mercado ou hortifrúti chamado **Ambos**.
 
 ## Descrição
