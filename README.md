@@ -60,13 +60,6 @@ Interface clean com tema verde, inspirada em mercados de hortifrúti.
 ├── pagina3.html
 └── pagarC.html
 
-
-## Preview das Telas
-
-| Tela Inicial | Contas a Receber | Contas a Pagar |
-|---|---|---|
-| ![Tela Inicial](./img/Hortifrutigranjeiros.jpg) | ![Contas a Receber](./img/frutas.png) | ![Contas a Pagar](./img/frutas2.png) |
-
 ## Como Executar
 
 1. Clone o repositório:
