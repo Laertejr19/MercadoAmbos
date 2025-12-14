@@ -38,12 +38,14 @@ Interface clean com tema verde, inspirada em mercados de hortifrúti.
 ├── css/
 │   ├── style.css
 │   └── style2.css
+│
 ├── img/
 │   ├── Cliente.jpg
 │   ├── Fornecedor.jpeg
 │   ├── frutas.png
 │   ├── frutas2.png
 │   └── Hortifrutigranjeiros.jpg
+│
 ├── js/
 │   ├── backend.js
 │   ├── calculo.js
@@ -52,6 +54,7 @@ Interface clean com tema verde, inspirada em mercados de hortifrúti.
 │   ├── pagina2.js
 │   ├── pagina3.js
 │   └── script.js
+│
 ├── cliente.html
 ├── fornecedor.html
 ├── header.html
@@ -59,6 +62,7 @@ Interface clean com tema verde, inspirada em mercados de hortifrúti.
 ├── pagina2.html
 ├── pagina3.html
 └── pagarC.html
+
 
 ## Como Executar
 
