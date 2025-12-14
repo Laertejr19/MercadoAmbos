@@ -33,7 +33,7 @@ Interface clean com tema verde, inspirada em mercados de hortifrúti.
 - Firebase Firestore (backend NoSQL)
 
 ## Estrutura do Projeto
-
+```
 /
 ├── css/
 │   ├── style.css
@@ -62,7 +62,7 @@ Interface clean com tema verde, inspirada em mercados de hortifrúti.
 ├── pagina2.html
 ├── pagina3.html
 └── pagarC.html
-
+```
 
 ## Como Executar
 
