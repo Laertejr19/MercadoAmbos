@@ -34,3 +34,58 @@ Interface clean com tema verde, inspirada em mercados de hortifrúti.
 
 ## Estrutura do Projeto
 
+/
+├── css/
+│   ├── style.css
+│   └── style2.css
+├── img/
+│   ├── Cliente.jpg
+│   ├── Fornecedor.jpeg
+│   ├── frutas.png
+│   ├── frutas2.png
+│   └── Hortifrutigranjeiros.jpg
+├── js/
+│   ├── backend.js
+│   ├── calculo.js
+│   ├── firebaseConfig.js
+│   ├── fornecedor.js
+│   ├── pagina2.js
+│   ├── pagina3.js
+│   └── script.js
+├── cliente.html
+├── fornecedor.html
+├── header.html
+├── index.html
+├── pagina2.html
+├── pagina3.html
+└── pagarC.html
+
+
+## Preview das Telas
+
+| Tela Inicial | Contas a Receber | Contas a Pagar |
+|---|---|---|
+| ![Tela Inicial](./img/Hortifrutigranjeiros.jpg) | ![Contas a Receber](./img/frutas.png) | ![Contas a Pagar](./img/frutas2.png) |
+
+## Como Executar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/mercado-ambos.git
+
+   Abra o arquivo index.html diretamente no navegador.
+
+O projeto já está configurado com um projeto Firebase público.
+Para uso em produção ou com dados privados, crie seu próprio projeto no Firebase e substitua as credenciais em js/firebaseConfig.js.
+
+Configuração Firebase (Opcional)
+As coleções utilizadas são:
+
+contas → contas a receber (clientes)
+boletos → contas a pagar (fornecedores)
+
+Licença
+
+Projeto livre para uso pessoal, educacional ou como base para sistemas semelhantes.
+Sem licença formal definida.
+Desenvolvido como um sistema prático de controle financeiro para pequenos comércios.
